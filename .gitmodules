@@ -1,0 +1,4 @@
+[submodule "AMDC-Firmware"]
+	path = AMDC-Firmware
+	url = https://github.com/Severson-Group/AMDC-Firmware
+	branch = develop
